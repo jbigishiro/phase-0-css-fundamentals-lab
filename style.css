@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+img {
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+nav {
+background-color: darkgrey;
+padding: 10px;
+}
+#featured-property {
+align-items: center;
+width: 800px;
+}
+#details {
+
+}
